@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Luxembourg"/>
+    <qresource prefix="/new/prefix1">
+        <file>hartaLuxembourg.xml</file>
+    </qresource>
+</RCC>
